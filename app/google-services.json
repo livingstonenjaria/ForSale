@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667932650732",
+    "firebase_url": "https://forsale-d1e7b.firebaseio.com",
+    "project_id": "forsale-d1e7b",
+    "storage_bucket": "forsale-d1e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667932650732:android:99bbbd666a4329c2",
+        "android_client_info": {
+          "package_name": "co.ke.codestruct.forsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667932650732-8qnmpthnnuoipgsm431u1cs1ngajr9ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.ke.codestruct.forsale",
+            "certificate_hash": "0ceced0282b3e0781c851d7301054bcbea77ffde"
+          }
+        },
+        {
+          "client_id": "667932650732-dnao4us303pdnhbdf8p6svehl2f7liqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0PRbwBOHUodI6gVj65jQ0fSWPkVhPu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667932650732-dnao4us303pdnhbdf8p6svehl2f7liqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
